@@ -1,0 +1,92 @@
+Margareth Vargas Salas
+Backend Developer | NestJS · Node.js · TypeScript · APIs REST · AWS · PostgreSQL · MongoDB - Bachiller en Administración y Marketing
+
+Acerca de
+Desarrolladora Backend enfocada en el diseño, desarrollo y mantenimiento de APIs REST escalables y mantenibles.
+
+He participado en proyectos de consultoría, académicos y colaborativos donde desarrollé soluciones backend utilizando NestJS y TypeScript, aplicando arquitectura en capas, principios SOLID y buenas prácticas de desarrollo.
+
+Cuento con experiencia integrando bases de datos relacionales y no relacionales, implementando autenticación y autorización con JWT, consumo de APIs externas y trabajo colaborativo con equipos frontend.
+
+Tengo conocimientos en despliegue básico sobre AWS, uso de Docker para entornos de desarrollo y control de versiones con Git bajo flujos colaborativos.
+
+Formación técnica en Computación e Informática y base sólida en análisis y gestión gracias a mi formación en Administración y Marketing, lo que me permite entender tanto el lado técnico como el negocio.
+
+Interesada en seguir creciendo como Backend Developer en entornos donde se valore el código limpio, la colaboración y la mejora continua.
+
+
+Experiencia
+
+Backend Developer – Consultora de Tecnología
+Backend Developer – Consultora de Tecnología
+Backend Developer – Consultora de Tecnología
+GCTI · Jornada completaGCTI · Jornada completa
+ene. 2025 - actualidad · 1 año 1 mesene. 2025 - actualidad · 1 año 1 mes
+Lima, Perú · HíbridoLima, Perú · Híbrido
+Desarrollo y mantenimiento de APIs REST utilizando NestJS y TypeScript.
+Implementación de lógica de negocio, validaciones y manejo de errores.
+Integración con bases de datos PostgreSQL y MongoDB.
+Implementación de autenticación y autorización mediante JWT y manejo de roles.
+Consumo e integración de APIs de terceros.
+Colaboración con equipos frontend para definición de contratos API.
+Configuración y despliegue básico de servicios backend en AWS (EC2, S3).
+Uso de Git y flujos de trabajo colaborativos.
+Participación en ceremonias ágiles (Scrum).
+Aplicación de buenas prácticas de arquitectura en capas y principios SOLID.
+Desarrollo y mantenimiento de APIs REST utilizando NestJS y TypeScript. Implementación de lógica de negocio, validaciones y manejo de errores. Integración con bases de datos PostgreSQL y MongoDB. Implementación de autenticación y autorización mediante JWT y manejo de roles. Consumo e integración de APIs de terceros. Colaboración con equipos frontend para definición de contratos API. Configuración y despliegue básico de servicios backend en AWS (EC2, S3). Uso de Git y flujos de trabajo colaborativos. Participación en ceremonias ágiles (Scrum). Aplicación de buenas prácticas de arquitectura en capas y principios SOLID.
+Aptitudes: Node.js · JavaScript · Amazon Web Services (AWS) · Resolución de problemas · Análisis de requisitos · Aprendizaje permanente · Amazon RDS · Web Services API · Trabajo en equipo · Pensamiento lógico y crítico · Git · Docker
+Aptitudes: Node.js · JavaScript · Amazon Web Services (AWS) · Resolución de problemas · Análisis de requisitos · Aprendizaje permanente · Amazon RDS · Web Services API · Trabajo en equipo · Pensamiento lógico y crítico · Git · Docker
+Backend Developer
+Backend Developer
+Backend Developer
+Proyectos Académicos y Personales · Jornada completaProyectos Académicos y Personales · Jornada completa
+ene. 2024 - actualidad · 2 años 1 mesene. 2024 - actualidad · 2 años 1 mes
+Lima, Perú · En remotoLima, Perú · En remoto
+Desarrollo de APIs REST para sistemas de gestión (usuarios, reservas, catálogos).
+Implementación de autenticación, autorización y control de roles.
+Integración con PostgreSQL, MongoDB y MySQL.
+Documentación de APIs con Swagger / OpenAPI.
+Uso de Docker para entornos locales.
+Pruebas unitarias e integración básicas con Jest.
+Trabajo en equipo con compañeros usando GitHub/GitLab.
+Consumo y exposición de APIs para frontend (Angular).
+Desarrollo de APIs REST para sistemas de gestión (usuarios, reservas, catálogos). Implementación de autenticación, autorización y control de roles. Integración con PostgreSQL, MongoDB y MySQL. Documentación de APIs con Swagger / OpenAPI. Uso de Docker para entornos locales. Pruebas unitarias e integración básicas con Jest. Trabajo en equipo con compañeros usando GitHub/GitLab. Consumo y exposición de APIs para frontend (Angular).
+Backend Developer
+Backend Developer
+Backend Developer
+Proyecto por Consultoría Externa · Profesional independienteProyecto por Consultoría Externa · Profesional independiente
+jul. 2024 - dic. 2024 · 6 mesesjul. 2024 - dic. 2024 · 6 meses
+Lima, Perú · PresencialLima, Perú · Presencial
+Desarrollo de APIs REST utilizando NestJS sobre Node.js.
+Implementación de endpoints CRUD y reglas de negocio.
+Integración con base de datos PostgreSQL.
+Consumo de APIs externas para integración de información.
+Implementación de autenticación básica mediante JWT.
+Manejo de validaciones y control de errores.
+Control de versiones con Git y trabajo colaborativo con consultor senior.
+Desarrollo de APIs REST utilizando NestJS sobre Node.js. Implementación de endpoints CRUD y reglas de negocio. Integración con base de datos PostgreSQL. Consumo de APIs externas para integración de información. Implementación de autenticación básica mediante JWT. Manejo de validaciones y control de errores. Control de versiones con Git y trabajo colaborativo con consultor senior.
+Aptitudes: Node.js · JavaScript · Resolución de problemas · Aprendizaje permanente · Amazon RDS · Web Services API · Trabajo en equipo · Diseño de APIs REST · Pensamiento logico · Git · Docker
+Aptitudes: Node.js · JavaScript · Resolución de problemas · Aprendizaje permanente · Amazon RDS · Web Services API · Trabajo en equipo · Diseño de APIs REST · Pensamiento logico · Git · Docker
+Logotipo de Ayni Educativo
+Coordinadora de Atención
+Coordinadora de Atención
+Ayni EducativoAyni Educativo
+abr. 2020 - jul. 2022 · 2 años 4 mesesabr. 2020 - jul. 2022 · 2 años 4 meses
+Perú · En remotoPerú · En remoto
+Asignar tareas a cada miembro del equipo y supervisar su cumplimiento de manera justa y respetando los plazos y lineamientos indicados, a fin de cumplir con cada requerimiento y con los cronogramas pactados. Contactar con la comunidad de Ayni Educativo y personas externas mediante las redes sociales 
+Asignar tareas a cada miembro del equipo y supervisar su cumplimiento de manera justa y respetando los plazos y lineamientos indicados, a fin de cumplir con cada requerimiento y con los cronogramas pactados. Contactar con la comunidad de Ayni Educativo y personas externas mediante las redes sociales 
+Logotipo de Petroperú S.A.
+Practicante Profesional
+Practicante Profesional
+Petroperú S.A.Petroperú S.A.
+ene. 2019 - dic. 2019 · 1 añoene. 2019 - dic. 2019 · 1 año
+San Isidro, PerúSan Isidro, Perú
+Apoyo en las actividades de desarrollo de productos y servicios. Participación de los proyectos: Tiendas de conveniencia, Tarjeta de Flota PETROPERÚ, Market Place, Proyecto de Endomarketing.
+Apoyo en las actividades de desarrollo de productos y servicios. Participación de los proyectos: Tiendas de conveniencia, Tarjeta de Flota PETROPERÚ, Market Place, Proyecto de Endomarketing.
+Logotipo de Universidad Peruana de Ciencias Aplicadas
+Practicante Pre Profesional 
+Practicante Pre Profesional 
+Universidad Peru · Jornada completaUniversidad Peru · Jornada completa
+may. 2017 - feb. 2018 · 10 mesesmay. 2017 - feb. 2018 · 10 meses
+PerúPerú
+Captar la atención de los postulantes para orientarlos en la obtención de información mediante la explicación de ventajas competitivas de UPC a través de técnicas de venta.
